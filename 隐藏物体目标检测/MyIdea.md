@@ -1,0 +1,39 @@
+# PFNET
+
+![image-20221125134654054](image/image-20221125134654054.png)
+
+![image-20221125135811988](image/image-20221125135811988.png)
+
+# SINET
+
+![image-20221125134737567](image/image-20221125134737567.png)
+
+# POOLNet
+
+![image-20221125134800070](image/image-20221125134800070.png)
+
+![image-20221125140051920](image/image-20221125140051920.png)
+
+
+
+# GFM
+
+![image-20221125134844881](image/image-20221125134844881.png)
+
+![GFM](image/GFM.svg)
+
+# BGNET
+
+![image-20221125134933943](image/image-20221125134933943.png)
+
+## EAM
+
+![image-20221125134958049](image/image-20221125134958049.png)
+
+## EFM
+
+![image-20221125135018763](image/image-20221125135018763.png)
+
+## CAM
+
+![image-20221125135036970](image/image-20221125135036970.png)
